@@ -20,9 +20,9 @@ Real-time Sol's RNG biome monitor with Discord webhook notifications.
 
 ## Credits
 
-- **vexsyx** — Biome icons and app assets (originally from OysterDetector)
+- **[vexsyx](https://github.com/vexsyx)** — Biome icons and app assets (originally from OysterDetector)
 - **Blight** — Lead development and design
 
 ## License
 
-MIT
+MIT — see [LICENSE](LICENSE).
