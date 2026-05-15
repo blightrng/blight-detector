@@ -13,10 +13,7 @@ Real-time Sol's RNG biome monitor with Discord webhook notifications.
 ## Files
 
 - `blight.exe` — desktop UI
-- `detector.exe` — detection engine
-- `flutter_windows.dll` — Flutter runtime
-- `data/` — app assets
-- `config.example.json` — rename to `config.json` and edit
+- head over to releases and get the zip file which has everything needed
 
 ## Credits
 
