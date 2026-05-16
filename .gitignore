@@ -1,8 +1,0 @@
-config.json
-backend/
-flutter_app/
-dist/
-build.bat
-biome_icon.ico
-_oyster/
-*.spec
